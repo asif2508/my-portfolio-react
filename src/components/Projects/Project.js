@@ -8,9 +8,9 @@ const Project = ({project}) => {
             <div className="card-body">
                 <h2 className="card-title">{name}</h2>
                 <div className="flex justify-between">
-                    <a href={client} className="btn btn-info btn-sm">Client-side</a>
-                    <a href={server} className="btn btn-info btn-sm">{server ?  'Server-side' : 'Unavailable' }</a>
-                    <a href={live} className="btn btn-info btn-sm">Live-site</a>
+                    <a target='_blank' href={client} className="btn btn-info btn-sm">Client-side</a>
+                    <a target='_blank' href={server} className="btn btn-info btn-sm">{server ?  'Server-side' : 'Unavailable' }</a>
+                    <a target='_blank' href={live} className="btn btn-info btn-sm">Live-site</a>
                 </div>
             </div>
         </div>

@@ -8,7 +8,7 @@ const Banner = () => {
                     <h3 className='text-2xl mb-2'>Rakibul Hasan Asif</h3>
                     <h1 className='text-4xl font-bold mb-2'>Full Stack Web Developer</h1>
                     <p className='mb-3'>I implement user interface design and solve user problems with HTML, CSS, Javascript, React JS, Node JS, Express JS, and MongoDB. I have one years of making products that solve user problems and implementing responsive website. I also develop backend with REST API. </p>
-                    <button class="btn btn-info btn-sm hover:btn-secondary">Download Resume</button>
+                    <a target='_blank' href='https://drive.google.com/file/d/19l3YsvK1YiFoBSqpcJ3gBy9IxtFYQNIW/view?usp=sharing' class="btn btn-info btn-sm hover:btn-secondary">Download Resume</a>
                 </div>
                 <div>
                     <div className="avatar px-28 py-5">
