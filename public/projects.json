@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Splendid Photographer",
+        "img": "https://i.ibb.co/syV6WPB/p1.png",
+        "client":"https://github.com/asif2508/splendid-photographer",
+        "live": "https://splendid-photographer.web.app/"
+    },
+    {
+        "name": "AutoHunt",
+        "img": "https://i.ibb.co/XpSVwJZ/p2.png",
+        "server":"https://github.com/asif2508/autohunt-server-side",
+        "client":"https://github.com/asif2508/autohunt-client-side",
+        "live": "https://auto-hunt-73675.web.app/"
+    },
+    {
+        "name": "HouseHold Industrial",
+        "img": "https://i.ibb.co/WzcNSK4/p3.png",
+        "server":"https://github.com/asif2508/manufacturer-website-client-side",
+        "client":"https://github.com/asif2508/manufacturer-website-server-side",
+        "live": "https://household-industrial.web.app/"
+    }
+]

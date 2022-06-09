@@ -1,0 +1,53 @@
+[
+    {
+        "name": "HTML5",
+        "photo": "https://icon-library.com/images/html-icon-png/html-icon-png-4.jpg"
+        
+    },
+    {
+        "name": "CSS3",
+        "photo": "https://cdn-icons-png.flaticon.com/512/732/732190.png"
+        
+    },
+    {
+        "name": "BOOTSTRAP",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"
+    },
+    {
+        "name": "TAILWIND CSS",
+        "photo": "https://image.pngaaa.com/388/3920388-middle.png"
+    },
+    {
+        "name": "JAVASCRIPT",
+        "photo": "https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png"
+    },
+    {
+        "name": "REACT JS",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+    },
+    {
+        "name": "FIREBASE",
+        "photo": "https://www.gstatic.com/devrel-devsite/prod/v48d5b7fe78425d6a73163cf28706f05fb6b7cff97bdc98bbcd2f38818604a511/firebase/images/touchicon-180.png"
+    },
+    {
+        "name": "NODE JS",
+        "photo": "https://www.htmlpro.net/blog/wp-content/uploads/2019/11/1200px-Node.js_logo.svg_.png"
+    },
+    {
+        "name": "EXPRESS JS",
+        "photo": "https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png"
+    },
+    {
+        "name": "MONGODB",
+        "photo": "https://res.cloudinary.com/practicaldev/image/fetch/s--TNSLqWFK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/140/fec5c82f-9870-4277-8ec9-a1ccf5505bf5.png"
+    },
+    {
+        "name": "GITHUB",
+        "photo": "https://www.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png"
+    },
+    {
+        "name": "FIGMA",
+        "photo": "https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-512.png"
+    }
+    
+]
